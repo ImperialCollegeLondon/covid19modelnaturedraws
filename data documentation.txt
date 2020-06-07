@@ -1,0 +1,3 @@
+Data on COVID-19-attributed cases and deaths was obtained from the ECDC https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide. 
+
+This data can be found in covid19-ecdc-data.csv.
