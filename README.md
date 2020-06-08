@@ -1,5 +1,5 @@
 # covid19modelnaturedraws
-This repository contains the posterior draws of the model in Flaxman, Mishra, Gandy et al. "Estimating the effects of non-pharmaceutical interventions on COVID-19 in Europe," Nature, 2020. [https://doi.org/10.1038/s41586-020-2405-7](https://doi.org/10.1038/s41586-020-2405-7)
+This repository contains the posterior draws of the model in Flaxman, Mishra, Gandy et al. "Estimating the effects of non-pharmaceutical interventions on COVID-19 in Europe," Nature, 2020. [https://www.nature.com/articles/s41586-020-2405-7](https://www.nature.com/articles/s41586-020-2405-7)
 
 
 # Raw data used
